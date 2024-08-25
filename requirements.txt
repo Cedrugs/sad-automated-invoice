@@ -1,0 +1,7 @@
+aiosqlite
+bs4
+pandas
+pillow
+lxml
+aiosmtplib
+aiofile
